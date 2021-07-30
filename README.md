@@ -52,3 +52,11 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 
 - pesquisar porta: lsof -i:3000
 - derrubar porta: kill -9 6654 
+
+salvar alterações: 
+git add .
+git commit -m "texto"
+git push                    (subir alterações)
+
+atualizar projeto:
+git pull 
