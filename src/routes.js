@@ -31,7 +31,6 @@ const jobs = [
     }
 ]
 
-
 //express = biblioteca pra criar o servidor
 //Router cria as rotas, caminhos... 
 //Ctrl + Shift + L = seleciona tuda palavra igual
