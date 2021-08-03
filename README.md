@@ -56,7 +56,7 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 salvar alterações: 
 git add .
 git commit -m "texto"
-git push                    (subir alterações)
+git push            (subir alterações)
 
 atualizar projeto:
 git pull 
